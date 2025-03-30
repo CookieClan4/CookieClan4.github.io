@@ -1,2 +1,2 @@
 # CookieClan4.github.io
-test
+Yay games!
